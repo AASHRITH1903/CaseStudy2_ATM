@@ -10,7 +10,8 @@
             PIN : 66666
             IFSC code : IFSC2
       Use these 2 accounts to do Transactions and Transfer money to one another . 
-  4 . Close the GUI after giving the input .
-  5 . Manually press ctrl+c to terminate the program . 
+  4 . Currently only last 3 Transactions were shown in mini statement we can increase the number any time in Account class .
+  5 . Close the GUI after giving the input .
+  6 . Manually press ctrl+c to terminate the program even after switching off . 
   
   
